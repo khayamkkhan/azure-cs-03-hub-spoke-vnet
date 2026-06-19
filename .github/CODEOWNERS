@@ -1,0 +1,9 @@
+# CODEOWNERS for azure-cs-03-hub-spoke-vnet
+#
+# Sole maintainer and code owner of this repository.
+# All technical work (Azure resources, Bicep IaC, network segmentation,
+# architectural decisions, screenshots, and documentation) is by Khayam Khan.
+#
+# Reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-security/customizing-your-repository/about-code-owners
+
+* @khayamkkhan
